@@ -11,7 +11,6 @@
     margin-top: 40px;
 }
 
-
 .author{
     margin-bottom: 20px;
     color: grey;
@@ -33,4 +32,13 @@ h4 a{
 
 .first span{
     font-size: 14px;
+}
+
+thead{
+    background-color: blue;
+    color: white;
+}
+
+.light-blue{
+    background-color: aqua;
 }

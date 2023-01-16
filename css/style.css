@@ -1,0 +1,16 @@
+
+.pattern{
+    background-size: contain;
+    background-image: url(../img/pattern.png);
+    height: 50px;
+    background-color: #4EA0FF;
+    
+}
+
+.logo{
+    background-image: url(../img/logo.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 30px;
+    background-position: left bottom;
+}

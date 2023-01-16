@@ -3,14 +3,18 @@
     background-size: contain;
     background-image: url(../img/pattern.png);
     height: 50px;
-    background-color: #4EA0FF;
-    
+    background-color: #4EA0FF;  
 }
 
 .logo{
+    height: 50%;
+    margin-top: 20px;
+}
+/* .logo{
     background-image: url(../img/logo.svg);
     background-size: contain;
     background-repeat: no-repeat;
-    height: 30px;
-    background-position: left bottom;
-}
+    height: 50%;
+    background-position: left bottom;   
+    
+} */

@@ -1,0 +1,92 @@
+
+.pattern{
+    background-size: 33%;
+    background-position: top;
+    background-image: url(../img/pattern.png);
+    height: 100px;
+    background-color: #4EA0FF;  
+    position: relative;
+}
+
+main{
+    margin: auto;
+    width: 83%;
+}
+
+.logo{
+    height: 50%;
+    margin-top: 40px;
+    position: absolute;
+    left: 8%;
+    bottom: 5%;
+}
+
+.author{
+    margin-bottom: 20px;
+    color: grey;
+}
+
+.first h1{
+    font-size: 40px;
+    color: black;
+    margin-bottom: 0;
+    margin-top: 15px;
+}
+
+h4 a{
+    text-decoration: none;
+    color: #70C8EE;
+}
+.first h4{
+    margin-bottom: 0;
+}
+
+.first span{
+    font-size: 12px;
+}
+
+ul{
+    padding: 15px;
+}
+
+table{
+    border-collapse:collapse;   
+}
+
+.row{
+    width: 25%;
+    text-align: left;
+}
+
+tr:last-child{
+    text-align: left;
+}
+
+thead{
+    background-color: #1FA9E5;
+    color: white;  
+}
+
+.light-blue{
+    background-color: #B1E5F2;
+}
+
+
+#monitor{
+    background-image: url(../img/monitor.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 150px;
+    margin-bottom: 10px;
+}
+
+#graph{
+    background-image: url(../img/graph.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 150px;
+}
+
+.more{
+    color: grey;
+}

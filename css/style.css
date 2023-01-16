@@ -31,12 +31,15 @@ h4 a{
 }
 
 .first span{
-    font-size: 14px;
+    font-size: 12px;
+}
+
+ul{
+    padding: 15px;
 }
 
 table{
-    border-collapse:collapse;
-    
+    border-collapse:collapse;   
 }
 
 .row{
@@ -44,12 +47,13 @@ table{
     text-align: left;
 }
 
+tr:last-child{
+    text-align: left;
+}
+
 thead{
     background-color: #1FA9E5;
-    color: white;
-    white-space: nowrap;
-    
-   
+    color: white;  
 }
 
 .light-blue{

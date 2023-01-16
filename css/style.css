@@ -36,11 +36,19 @@ h4 a{
 
 table{
     border-collapse:collapse;
+    
+}
+
+.row{
+    width: 25%;
+    text-align: left;
 }
 
 thead{
     background-color: #1FA9E5;
     color: white;
+    white-space: nowrap;
+    
    
 }
 

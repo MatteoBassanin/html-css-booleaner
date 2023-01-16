@@ -34,21 +34,20 @@ h4 a{
     font-size: 14px;
 }
 
+table{
+    border-collapse:collapse;
+}
+
 thead{
-    background-color: blue;
+    background-color: #1FA9E5;
     color: white;
+   
 }
 
 .light-blue{
-    background-color: aqua;
+    background-color: #B1E5F2;
 }
 
-/* .picture{
-    background-size: contain;
-    background-repeat: no-repeat;
-    height: 200px;
-    
-} */
 
 #monitor{
     background-image: url(../img/monitor.jpg);

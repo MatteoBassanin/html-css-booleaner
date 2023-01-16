@@ -1,6 +1,7 @@
 
 .pattern{
-    background-size: contain;
+    background-size: 30%;
+    background-position: top;
     background-image: url(../img/pattern.png);
     height: 100px;
     background-color: #4EA0FF;  
